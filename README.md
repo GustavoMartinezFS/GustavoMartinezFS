@@ -12,7 +12,8 @@
 ### Estoy buscando oportunidades en proyectos basados en JS, o PHP. 
 
 📫
-### Como contactarme: martinez.trejo.gustavo.a@gmail.com
+### Como contactarme: 
+- martinez.trejo.gustavo.a@gmail.com
 - [Linkedin](https://www.linkedin.com/in/martinez-trejo-gustavo/)
 
 ⚡
