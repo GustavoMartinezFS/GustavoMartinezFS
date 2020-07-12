@@ -9,8 +9,8 @@
 - React.js
 - Node.js 
 - Express.js
-- Varias alternativas de sql (MYSQL, sql server, sqlite, PostgreSQL )
-- Test unitarios (Mocha, Jest) 
+- Varias alternativas de sql (MySQL, sql server, sqlite, PostgreSQL )
+- Testing unitarios (Mocha, Jest) 
 - AWS 
 
 👷🏽‍♂️
@@ -32,3 +32,38 @@
 
 ⚡
 ### Dato curioso: Cualquier comida me hace feliz 😄
+
+* * *
+# WELCOME!
+
+ 👋🏽 
+### My name is **Gustavo**. I am from Tucuman, Argentina. Passionate about technology and progress. 
+
+ 🌱 
+### I am finishing an intensive Full Stack developer JS bootcamp. 
+#### Tools: 
+- React.js 
+- Node.js 
+- Express.js 
+- Various sql alternatives (MySQL, sql server, sqlite, PostgreSQL) 
+- Unit testing (Mocha, Jest) 
+- AWS 
+
+ 👷🏽‍♂️ 
+### I am finishing the CCNA certification. 
+
+ 👨🏽‍💻 
+### I make static and dynamic websites. 
+### I have experience in php projects, using Laravel framework. 
+### I speak English, although I am always looking to improve it. 
+
+ 🕵🏽‍♂️
+### I am looking for opportunities in projects based on JS, or PHP.
+
+ 📫 
+### How to contact me: 
+- martinez.trejo.gustavo.a@gmail.com 
+- [Linkedin](https://www.linkedin.com/in/martinez-trejo-gustavo/)
+
+ ⚡ 
+### Fun fact: Any food makes me happy 😄
