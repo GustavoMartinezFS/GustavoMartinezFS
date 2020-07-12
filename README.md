@@ -1,16 +1,16 @@
-### Hi there 👋
+# BIENVENIDOS!👋
 
-<!--
-**GustavoMartinezFS/GustavoMartinezFS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋🏽
+### Mi nombre es Martinez Trejo Gustavo, soy de Tucuman, Argentina. Apasiando por la tecnologia y el progreso. 
 
-Here are some ideas to get you started:
+🌱
+### Estoy en un bootcamp intensivo de Full Stack developer JS. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯
+### Estoy buscando oportunidades en proyectos basados en JS, o PHP. 
+
+📫
+### Como contactarme: martinez.trejo.gustavo.a@gmail.com
+
+⚡
+### Dato curioso: Cualquier comida me hace feliz 😄
