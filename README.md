@@ -4,7 +4,7 @@
 ### Mi nombre es **Gustavo**. Soy de Tucuman, Argentina. Apasionado por la tecnologia y el progreso. 
 
 🌱
-### Estoy terminando un bootcamp intensivo de Full Stack developer JS.
+### Terminé un bootcamp intensivo de Full Stack developer JS.
 #### Herramientas:
 - React.js
 - Node.js 
@@ -14,16 +14,16 @@
 - AWS 
 
 👷🏽‍♂️
-### Estoy terminando la certificacion CCNA. 
+### Certificado en CCNA. 
 
 
 👨🏽‍💻
 ### Realizo web estáticas y dinámicas. 
-### Tengo experiencia en proyectos de php, usando framework de Laravel. 
+### Tengo experiencia en proyectos de php y js, usando framework como Laravel, React o Vue. 
 ### Hablo ingles, aunque siempre estoy buscando perfeccionarlo. 
 
 🕵🏽‍♂️
-### Estoy buscando oportunidades en proyectos basados en JS, o PHP. 
+### Estoy buscando oportunidades en proyectos basados en JS. 
 
 📫
 ### Como contactarme: 
@@ -40,7 +40,7 @@
 ### My name is **Gustavo**. I am from Tucuman, Argentina. Passionate about technology and progress. 
 
  🌱 
-### I am finishing an intensive Full Stack developer JS bootcamp. 
+### I finished an intensive Full Stack developer JS bootcamp. 
 #### Tools: 
 - React.js 
 - Node.js 
@@ -50,15 +50,15 @@
 - AWS 
 
  👷🏽‍♂️ 
-### I am finishing the CCNA certification. 
+### Certified in CCNA. 
 
  👨🏽‍💻 
 ### I make static and dynamic websites. 
-### I have experience in php projects, using Laravel framework. 
+### I have experience in php and js projects, using frameworks like Laravel, React or Vue. 
 ### I speak English, although I am always looking to improve it. 
 
  🕵🏽‍♂️
-### I am looking for opportunities in projects based on JS, or PHP.
+### I am looking for opportunities in projects based on JS.
 
  📫 
 ### How to contact me: 
