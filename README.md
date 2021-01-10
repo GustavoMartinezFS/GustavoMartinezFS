@@ -20,7 +20,6 @@
 👨🏽‍💻
 ### Realizo web estáticas y dinámicas. 
 ### Tengo experiencia en proyectos de php y js, usando framework como Laravel, React o Vue. 
-### Hablo ingles, aunque siempre estoy buscando perfeccionarlo. 
 
 🕵🏽‍♂️
 ### Estoy buscando oportunidades en proyectos basados en JS. 
@@ -55,7 +54,6 @@
  👨🏽‍💻 
 ### I make static and dynamic websites. 
 ### I have experience in php and js projects, using frameworks like Laravel, React or Vue. 
-### I speak English, although I am always looking to improve it. 
 
  🕵🏽‍♂️
 ### I am looking for opportunities in projects based on JS.
