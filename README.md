@@ -16,11 +16,6 @@
 👷🏽‍♂️
 ### Certificado en CCNA. 
 
-
-👨🏽‍💻
-### Realizo web estáticas y dinámicas. 
-### Tengo experiencia en proyectos de php y js, usando framework como Laravel, React o Vue. 
-
 🕵🏽‍♂️
 ### Estoy buscando oportunidades en proyectos basados en JS. 
 
@@ -50,10 +45,6 @@
 
  👷🏽‍♂️ 
 ### Certified in CCNA. 
-
- 👨🏽‍💻 
-### I make static and dynamic websites. 
-### I have experience in php and js projects, using frameworks like Laravel, React or Vue. 
 
  🕵🏽‍♂️
 ### I am looking for opportunities in projects based on JS.
