@@ -4,13 +4,14 @@
 ### Mi nombre es **Gustavo**. Soy de Tucuman, Argentina. Apasionado por la tecnologia y el progreso. 
 
 🌱
-### Terminé un bootcamp intensivo de Full Stack developer JS.
-#### Herramientas:
+#### Stack:
 - React.js
 - Node.js 
 - Express.js
+- Vue.js
 - Varias alternativas de sql (MySQL, sql server, sqlite, PostgreSQL )
 - Testing unitarios (Mocha, Jest) 
+- Cypress
 - AWS 
 
 👷🏽‍♂️
@@ -39,8 +40,10 @@
 - React.js 
 - Node.js 
 - Express.js 
+- Vue.js
 - Various sql alternatives (MySQL, sql server, sqlite, PostgreSQL) 
 - Unit testing (Mocha, Jest) 
+- Cypress
 - AWS 
 
  👷🏽‍♂️ 
