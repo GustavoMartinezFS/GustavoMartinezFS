@@ -1,7 +1,6 @@
 # BIENVENIDOS!
 
-👋🏽
-### Mi nombre es **Gustavo**. Soy de Tucuman, Argentina. Apasionado por la tecnologia y el progreso. 
+👋🏽 ### Mi nombre es **Gustavo**. Soy de Tucuman, Argentina. Apasionado por la tecnologia y el progreso. 
 
 🌱
 ### Terminé un bootcamp intensivo de Full Stack developer JS.
