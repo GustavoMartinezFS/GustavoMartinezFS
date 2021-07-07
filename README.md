@@ -35,8 +35,7 @@
 ### My name is **Gustavo**. I am from Tucuman, Argentina. Passionate about technology and progress. 
 
  🌱 
-### I finished an intensive Full Stack developer JS bootcamp. 
-#### Tools: 
+#### Stack: 
 - React.js 
 - Node.js 
 - Express.js 
