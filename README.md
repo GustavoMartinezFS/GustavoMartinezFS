@@ -1,7 +1,7 @@
 # BIENVENIDOS!
 
 👋🏽
-### Mi nombre es **Gustavo**. Soy de Tucuman, Argentina. Apasionado por la tecnologia y el progreso. 
+### Mi nombre es **Gustavo**. Soy de Argentina. Apasionado por la tecnologia y el progreso. 
 
 🌱
 #### Stack:
@@ -32,7 +32,7 @@
 # WELCOME!
 
  👋🏽 
-### My name is **Gustavo**. I am from Tucuman, Argentina. Passionate about technology and progress. 
+### My name is **Gustavo**. I am from Argentina. Passionate about technology and progress. 
 
  🌱 
 #### Stack: 
